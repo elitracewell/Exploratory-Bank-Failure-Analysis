@@ -19,15 +19,21 @@ This repository provides insights into the trends and causes of bank failures in
 
 # Data Visualizations to Support our Claims:
 
-- Numbers of failed banks by state
-- An interactive map to show all US bank closures from 1950-2020
-- Number of US failed banks and cost to the federal government by year, 1975-1995
-- Heat map for most concentrated locations for US bank failures from 1975-1995
-- Top 10 states of US bank failures from 1975-1995
-- 2000-2020 heat map for most concentrated locations for US bank failures
-- Top 10 states of US bank failures from 2000-2020
-- Top 10 states where bank assets could not cover costs of closure
-- Heatmap of US bank closures by cost
-- Yearly changes chart in numbers of failed banks
+We created several data visualizations to support our claims and provide a clearer understanding of the trends and impacts of bank failures in the United States. These visualizations include:
 
-These visualizations were designed to provide a comprehensive overview of the trends and causes of bank failures in the United States over the years. They were also used to support our claims and provide a better understanding of the data.
+- A bar chart showing the numbers of failed banks by state
+- An interactive map to show all US bank closures from 1950-2020
+- A line chart showing the number of US failed banks and cost to the federal government by year, from 1975-1995
+- A heat map showing the most concentrated locations for US bank failures from 1975-1995
+- A table listing the top 10 states of US bank failures from 1975-1995
+- A heat map showing the most concentrated locations for US bank failures from 2000-2020
+- A table listing the top 10 states of US bank failures from 2000-2020
+- A table listing the top 10 states where bank assets could not cover the costs of closure-
+- A heat map showing US bank closures by cost
+- A line chart showing the yearly changes in the numbers of failed banks.
+
+These visualizations provide a comprehensive and visual representation of the data collected, allowing readers to understand the trends and impacts of bank failures in the United States more easily.
+
+
+
+
