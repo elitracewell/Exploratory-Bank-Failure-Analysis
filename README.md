@@ -16,3 +16,18 @@ We were able to use this data to determine that during any given year, when ther
 
 # Conclusion
 This repository provides insights into the trends and causes of bank failures in the United States between the years 1975 and 2020. The data suggests that banks should be cautious about investing in industries that are prone to price volatility, such as oil. Additionally, regulators should be vigilant when there is an increase of fifteen or more bank closures in any given year.
+
+# Data Visualizations to Support our Claims:
+
+- Numbers of failed banks by state
+- An interactive map to show all US bank closures from 1950-2020
+- Number of US failed banks and cost to the federal government by year, 1975-1995
+- Heat map for most concentrated locations for US bank failures from 1975-1995
+- Top 10 states of US bank failures from 1975-1995
+- 2000-2020 heat map for most concentrated locations for US bank failures
+- Top 10 states of US bank failures from 2000-2020
+- Top 10 states where bank assets could not cover costs of closure
+- Heatmap of US bank closures by cost
+- Yearly changes chart in numbers of failed banks
+
+These visualizations were designed to provide a comprehensive overview of the trends and causes of bank failures in the United States over the years. They were also used to support our claims and provide a better understanding of the data.
